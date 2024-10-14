@@ -125,7 +125,7 @@ user akan diminta menginput nama :
 
 ![Screenshot 2024-10-15 005921](https://github.com/user-attachments/assets/9b08614b-dd7c-4d4c-87d0-cd8b03f7283b)
 
-# <sub>Penjelasan Fitur Akses Karyawan Gudang<sub>
+# <sub>Penjelasan Fitur Akses Bersama<sub>
 
 1. lihat stok
    
