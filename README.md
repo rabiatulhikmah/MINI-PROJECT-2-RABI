@@ -1,9 +1,9 @@
 # MINI-PROJECT-2 RABI
-# profil
+# Profil
 Nama : Rabiatul Hikmah
 Nim : 2409116049
 Kelas : B
-# Tema : Pemngelolaan Stok Toko Hijab
+# Tema : Pengelolaan Stok Toko Hijab
 
 
 
