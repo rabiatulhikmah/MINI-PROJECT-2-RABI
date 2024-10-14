@@ -17,8 +17,20 @@ gambar di atas merupakan menu dimana user memilih antara menjadi karyawan gudang
 2. akses bersama dapat digunakan seluruh karyawan toko dan hanya bisa melihat stok barang yang ada
 3. maka program akan selesai atau berhenti
 
-* **jika user mennginput selain opsi diatas yaitu 1, 2 dan 3 maka otomatis akan kembali ke mode login
+**jika user mennginput selain opsi diatas yaitu 1, 2 dan 3 maka otomatis akan kembali ke mode login**
 
 seperti gambar di bawah ini :
 
 ![Screenshot 2024-10-14 232452](https://github.com/user-attachments/assets/7d6a9d9b-1e24-49d4-95ad-04032ebd285d)
+
+# akses karyawan gudang 
+pada role ini akan ada login yang menginput username dan juga password. 
+
+* jika password yang dimasukkan salah maka program akan kembali ke menu role
+
+![Screenshot 2024-10-14 233159](https://github.com/user-attachments/assets/f499a87f-8086-4682-875e-a2396d56f73a)
+
+* jika password benar maka akses karyawan gudang akan terbuka dan mengeluarkan fitu-fitur yang ada
+
+
+![Screenshot 2024-10-14 233901](https://github.com/user-attachments/assets/a83a286c-d6a5-4d93-b5a2-e56c78ff5727)
