@@ -9,9 +9,12 @@ Kelas : B
 Tema : Pengelolaan Stok Toko Hijab
 # Flowchart
 ![MINI PROJECK2 drawio (2)](https://github.com/user-attachments/assets/ac2e7ff9-afe5-4a01-a60a-03a1df9b4bdf)
-# Menu role
+# Menu utama
+
+menu dimana user dapat memilih role.
+
 ![Screenshot 2024-10-14 225943](https://github.com/user-attachments/assets/5f92cad8-1aba-47ed-a055-55af1911e0bb)
-gambar di atas merupakan menu dimana user memilih antara menjadi karyawan gudang atau menjadi user biasa
+
 # Penjelasan masing-masing role
 1. akses karyawan gudang
    dapat melakukan sistem CRUD(Cread,Read,Update,Delete) pada database barang.
@@ -42,10 +45,12 @@ pada role ini akan ada login yang menginput username dan juga password.
 1. lihat stok
    
    untuk masuk ke fitur ini inputkan angka 1
+
+    disini akan muncul stok barang yang ada di gudang.
    
   ![Screenshot 2024-10-14 235342](https://github.com/user-attachments/assets/f8e33c30-7b47-4c9d-a95b-2a0147dc0c56)
   
-      disini akan muncul stok barang yang ada di gudang.
+     
 
 2. tambah barang
 
@@ -76,18 +81,18 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    jika nama yang dimasukkan tidak ada dalam daftar barang maka barang yang ada di dalam           daftar barang tidak akan berubah. dan akan ditanya ingin mengulang atau tidak.
    
-   ![Screenshot 2024-10-15 001901](https://github.com/user-attachments/assets/f767475e-dfdd-4b7d-b6cd-3b5b9be3f8d0)
+      ![Screenshot 2024-10-15 001901](https://github.com/user-attachments/assets/f767475e-dfdd-4b7d-b6cd-3b5b9be3f8d0)
 
    **before**
 
-  ![Screenshot 2024-10-15 012506](https://github.com/user-attachments/assets/3d5409c6-b722-4bfb-8cec-e865ef694a4b)
+     ![Screenshot 2024-10-15 012506](https://github.com/user-attachments/assets/3d5409c6-b722-4bfb-8cec-e865ef694a4b)
 
    **after**
 
  ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/87d20195-bbc2-4abb-ab93-81ac6b71538c)
 
 
-5. update stok
+4. update stok
 
    untuk masuk fitur ini inputkan angka 4
 
