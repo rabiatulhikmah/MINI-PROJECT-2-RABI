@@ -72,7 +72,7 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    untuk masuk fitur ini inputkan angka 3
 
-   disini akan dilakukan penginputan nama barang, jika nama barang yang dimasukkan ada dalam       daftar barang maka barang tersebut akan dihapus dalam daftar. dan akan ditanya ingin            melakukan pengulangan atau tidak. jika menginput 'y' maka program akan mengulang namum jika     selain y maka akan kembali ke menu karyawan gudang.
+   disini akan dilakukan penginputan nama barang, jika nama barang yang dimasukkan ada dalam       daftar barang maka barang tersebut akan dihapus dalam daftar. dan akan ditanya ingin            melakukan pengulangan atau tidak. jika menginput 'y' maka program akan mengulang namum jika selain y maka akan kembali ke menu karyawan gudang.
 
    jika nama yang dimasukkan tidak ada dalam daftar barang maka barang yang ada di dalam           daftar barang tidak akan berubah. dan akan ditanya ingin mengulang atau tidak.
    
@@ -82,7 +82,7 @@ pada role ini akan ada login yang menginput username dan juga password.
 
   ![Screenshot 2024-10-15 012506](https://github.com/user-attachments/assets/3d5409c6-b722-4bfb-8cec-e865ef694a4b)
 
- **after**
+   **after**
 
  ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/87d20195-bbc2-4abb-ab93-81ac6b71538c)
 
@@ -93,9 +93,17 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    disini akan dilakukan input nama barang dan stok barang baru. input nama barang harus nama yang ada di dalam daftar barang. sehingga stok barang yang ada di daftar barang akan terupdate dengan stok yang diinputkan tadi. jika berhasil tampilannya akan seperti ini dan langsung kembali ke manu karyawan gudang.
 
-   ![Screenshot 2024-10-15 003237](https://github.com/user-attachments/assets/8dc036d3-b430-4f2e-90d7-90915ccfb40f)
+   ![Screenshot 2024-10-15 013222](https://github.com/user-attachments/assets/ef164706-1c25-44f4-bea9-bd5212a7862b)
 
- dan jika nama barang yang diinput tidak ada, maka barang yang ada pada daftar barang tidak akan berubah dan akan langsung kembali ke menu karyawan gudang.
+   **before**
+
+   ![Screenshot 2024-10-15 013239](https://github.com/user-attachments/assets/7621fbf5-d4dd-4c0e-bef9-311e88d58f53)
+
+   **after**
+
+   ![Screenshot 2024-10-15 013252](https://github.com/user-attachments/assets/10b06255-1407-4bcd-91cb-bfef80d7047b)
+
+    dan jika nama barang yang diinput tidak ada, maka barang yang ada pada daftar barang tidak akan berubah dan akan langsung kembali ke menu karyawan gudang.
 
    ![Screenshot 2024-10-15 003246](https://github.com/user-attachments/assets/d56eb17b-6238-4d2d-a524-677ef37bff69)
 
@@ -125,11 +133,11 @@ user akan diminta menginput nama :
 2. kembali
    jika menginput angka 5 maka program akan kembali ke menu utama yaitu menu memilih role
 
-![Screenshot 2024-10-15 011101](https://github.com/user-attachments/assets/9fdcc55a-aa55-48c8-a907-d8843aba6e4a)
+   ![Screenshot 2024-10-15 011101](https://github.com/user-attachments/assets/9fdcc55a-aa55-48c8-a907-d8843aba6e4a)
 
 # 3. Keluar
 
-jika memilih fitur ini maka program akan selesai atau berhenti yang ditandai dengan tulisan seperti ini :
+   jika memilih fitur ini maka program akan selesai atau berhenti yang ditandai dengan tulisan seperti ini :
 
-![Screenshot 2024-10-15 011548](https://github.com/user-attachments/assets/b7937da0-7306-498f-8ab1-52ef172d6d84)
+   ![Screenshot 2024-10-15 011548](https://github.com/user-attachments/assets/b7937da0-7306-498f-8ab1-52ef172d6d84)
 
