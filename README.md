@@ -89,7 +89,7 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    **after**
 
- ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/87d20195-bbc2-4abb-ab93-81ac6b71538c)
+    ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/87d20195-bbc2-4abb-ab93-81ac6b71538c)
 
 
 4. update stok
@@ -116,7 +116,7 @@ pada role ini akan ada login yang menginput username dan juga password.
  5. kembali
     jika menginput angka 5 maka program akan kembali ke menu utama yaitu menu memilih role
 
-   ![Screenshot 2024-10-15 004511](https://github.com/user-attachments/assets/c55bba50-7e35-4ddd-9a29-64f206e944e7)
+      ![Screenshot 2024-10-15 004511](https://github.com/user-attachments/assets/c55bba50-7e35-4ddd-9a29-64f206e944e7)
 
 
 # 2. Akses Bersama
