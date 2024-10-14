@@ -17,7 +17,7 @@ gambar di atas merupakan menu dimana user memilih antara menjadi karyawan gudang
 2. akses bersama dapat digunakan seluruh karyawan toko dan hanya bisa melihat stok barang yang ada
 3. maka program akan selesai atau berhenti
 
- **jika user mennginput selain opsi diatas yaitu 1, 2 dan 3 maka otomatis akan kembali ke mode login
+* **jika user mennginput selain opsi diatas yaitu 1, 2 dan 3 maka otomatis akan kembali ke mode login
 
 seperti gambar di bawah ini :
 
