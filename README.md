@@ -78,7 +78,16 @@ pada role ini akan ada login yang menginput username dan juga password.
    
    ![Screenshot 2024-10-15 001901](https://github.com/user-attachments/assets/f767475e-dfdd-4b7d-b6cd-3b5b9be3f8d0)
 
-4. update stok
+   **before**
+
+  ![Screenshot 2024-10-15 012506](https://github.com/user-attachments/assets/3d5409c6-b722-4bfb-8cec-e865ef694a4b)
+
+ **after**
+
+ ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/87d20195-bbc2-4abb-ab93-81ac6b71538c)
+
+
+5. update stok
 
    untuk masuk fitur ini inputkan angka 4
 
