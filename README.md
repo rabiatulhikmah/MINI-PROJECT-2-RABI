@@ -8,4 +8,4 @@ Kelas : B
 
 Tema : Pengelolaan Stok Toko Hijab
 # Flowchart
-![MINI PROJECK2 drawio (1)](https://github.com/user-attachments/assets/c18693be-4300-4b20-a43e-2dbd2512c557)
+![MINI PROJECK2 drawio (2)](https://github.com/user-attachments/assets/ac2e7ff9-afe5-4a01-a60a-03a1df9b4bdf)
