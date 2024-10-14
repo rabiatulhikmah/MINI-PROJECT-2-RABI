@@ -12,7 +12,7 @@ Tema : Pengelolaan Stok Toko Hijab
 # Menu role
 ![Screenshot 2024-10-14 225943](https://github.com/user-attachments/assets/5f92cad8-1aba-47ed-a055-55af1911e0bb)
 gambar di atas merupakan menu dimana user memilih antara menjadi karyawan gudang atau menjadi user biasa
-# penjelasan masing-masing role
+# Penjelasan masing-masing role
 1. akses karyawan gudang
    dapat melakukan sistem CRUD(Cread,Read,Update,Delete) pada database barang.
 2. akses bersama
@@ -26,7 +26,7 @@ seperti gambar di bawah ini :
 
 ![Screenshot 2024-10-14 232452](https://github.com/user-attachments/assets/7d6a9d9b-1e24-49d4-95ad-04032ebd285d)
 
-# 1. akses karyawan gudang 
+# 1. Akses Karyawan Gudang 
 pada role ini akan ada login yang menginput username dan juga password. 
 
 * jika password yang dimasukkan salah maka program akan kembali ke menu role
@@ -37,7 +37,7 @@ pada role ini akan ada login yang menginput username dan juga password.
 
 ![Screenshot 2024-10-14 233901](https://github.com/user-attachments/assets/a83a286c-d6a5-4d93-b5a2-e56c78ff5727)
 
-# <sub>Penjelasan Fitur Akses Karyawan Gudang
+# <sub>Penjelasan Fitur Akses Karyawan Gudang<sub>
 
 1. lihat stok
    
@@ -83,9 +83,35 @@ pada role ini akan ada login yang menginput username dan juga password.
 
 
  5. kembali
-    jika menginput angka 5 maka program akan kembali ke menu utama yaitu "menu role"
+    jika menginput angka 5 maka program akan kembali ke menu utama yaitu menu memilih role
 
    ![Screenshot 2024-10-15 004511](https://github.com/user-attachments/assets/c55bba50-7e35-4ddd-9a29-64f206e944e7)
 
+
+# 2. Akses Bersama
+
+user akan diminta menginput nama : 
+
+![Screenshot 2024-10-15 005921](https://github.com/user-attachments/assets/9b08614b-dd7c-4d4c-87d0-cd8b03f7283b)
+
+# <sub>Penjelasan Fitur Akses Karyawan Gudang<sub>
+
+1. lihat stok
    
- 
+   untuk masuk fitur ini inputkan angka 1
+
+   disini user akan melihat stok yang ada di gudang
+
+   ![Screenshot 2024-10-15 010943](https://github.com/user-attachments/assets/6e4e9210-e2b3-42f7-abbb-85476239fecd)
+
+2. kembali
+   jika menginput angka 5 maka program akan kembali ke menu utama yaitu menu memilih role
+
+![Screenshot 2024-10-15 011101](https://github.com/user-attachments/assets/9fdcc55a-aa55-48c8-a907-d8843aba6e4a)
+
+# 3. Keluar
+
+jika memilih fitur ini maka program akan selesai atau berhenti yang ditandai dengan tulisan seperti ini :
+
+![Screenshot 2024-10-15 011548](https://github.com/user-attachments/assets/b7937da0-7306-498f-8ab1-52ef172d6d84)
+
