@@ -51,9 +51,18 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    untuk masuk fitur ini inputkan angka 2
    
-   disini akan dilakukan penginputan nama barang lalu stok barang. setelah itu, jika berhasil      maka barang akan bertambah dalam daftar barang dan akan ditanya ingin melakukan penambahan      barang lagi atau tidak. jika menginput 'y' maka program akan mengulang namum jika selain y      maka akan kembali ke menu karyawan gudang.
+   disini akan dilakukan penginputan nama barang lalu stok barang. setelah itu, jika berhasil      maka barang akan bertambah dalam daftar barang dan akan ditanya ingin melakukan penambahan      barang lagi atau tidak. jika menginput 'y' maka program akan mengulang namum jika selain       maka akan kembali ke menu karyawan gudang.
 
    ![Screenshot 2024-10-14 235657](https://github.com/user-attachments/assets/4ca93188-b4eb-40ec-a1d0-efd3e21d6319)
+
+   **before**
+   
+   ![Screenshot 2024-10-15 012456](https://github.com/user-attachments/assets/0b2245af-c9ad-4d2f-871c-8a79a5454179)
+
+   **after**
+
+   ![Screenshot 2024-10-15 012506](https://github.com/user-attachments/assets/e8e9ab7e-8142-4e92-95aa-6d4b4756c790)
+
 
    jika barang yang diinput sudah ada dalam daftar barang maka, akan dilakukan penginputan         ulang dan harus memasukan barang yang belum ada di dalam daftar barang.
 
