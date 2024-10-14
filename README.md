@@ -45,7 +45,7 @@ pada role ini akan ada login yang menginput username dan juga password.
    
   ![Screenshot 2024-10-14 235342](https://github.com/user-attachments/assets/f8e33c30-7b47-4c9d-a95b-2a0147dc0c56)
   
-    disini akan muncul stok barang yang ada di gudang.
+      disini akan muncul stok barang yang ada di gudang.
 
 2. tambah barang
 
@@ -67,7 +67,7 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    jika nama yang dimasukkan tidak ada dalam daftar barang maka barang yang ada di dalam           daftar barang tidak akan berubah. dan akan ditanya ingin mengulang atau tidak.
    
-![Screenshot 2024-10-15 001901](https://github.com/user-attachments/assets/f767475e-dfdd-4b7d-b6cd-3b5b9be3f8d0)
+   ![Screenshot 2024-10-15 001901](https://github.com/user-attachments/assets/f767475e-dfdd-4b7d-b6cd-3b5b9be3f8d0)
 
 4. update stok
 
@@ -75,11 +75,11 @@ pada role ini akan ada login yang menginput username dan juga password.
 
    disini akan dilakukan input nama barang dan stok barang baru. input nama barang harus nama yang ada di dalam daftar barang. sehingga stok barang yang ada di daftar barang akan terupdate dengan stok yang diinputkan tadi. jika berhasil tampilannya akan seperti ini dan langsung kembali ke manu karyawan gudang.
 
-![Screenshot 2024-10-15 003237](https://github.com/user-attachments/assets/8dc036d3-b430-4f2e-90d7-90915ccfb40f)
+   ![Screenshot 2024-10-15 003237](https://github.com/user-attachments/assets/8dc036d3-b430-4f2e-90d7-90915ccfb40f)
 
  dan jika nama barang yang diinput tidak ada, maka barang yang ada pada daftar barang tidak akan berubah dan akan langsung kembali ke menu karyawan gudang.
 
-![Screenshot 2024-10-15 003246](https://github.com/user-attachments/assets/d56eb17b-6238-4d2d-a524-677ef37bff69)
+   ![Screenshot 2024-10-15 003246](https://github.com/user-attachments/assets/d56eb17b-6238-4d2d-a524-677ef37bff69)
 
 
  5. kembali
